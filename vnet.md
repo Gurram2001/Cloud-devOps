@@ -5,6 +5,7 @@
 ### 🔷 **1. Virtual Network (VNet)**  
 **Definition**:  
 An Azure VNet is a **private, isolated network** in the Azure cloud, similar to a traditional on-premises network.
+**It is a fundamental building block for creating a private network in Azure, providing isolation and control over your cloud resources**
 
 **Application**:  
 Used to host and securely connect Azure resources like VMs, databases, and app services.
